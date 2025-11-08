@@ -1,0 +1,8 @@
+/* Nav link hover */
+nav a:hover {
+  opacity: 0.95;
+  transform: translateY(-1px);
+  transition: all 120ms ease;
+}
+
+/* Active link (kept in JS styles) - this is optional */
